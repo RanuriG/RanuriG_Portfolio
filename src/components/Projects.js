@@ -14,6 +14,9 @@ import { activities } from './data/constants';
 import projImg1 from "../assets/img/project-img1.png";
 import projImg2 from "../assets/img/project-img2.png";
 import projImg3 from "../assets/img/project-img3.png";
+import projImg4 from "../assets/img/project-img4.png";
+import projImg5 from "../assets/img/project-img5.png";
+import projImg6 from "../assets/img/project-img6.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
@@ -25,33 +28,37 @@ export const Projects = () => {
       title: "Smart Dustbin with Node-RED",
       description: "An automated dustbin using Arduino, Node-RED",
       imgUrl: projImg1,
-      githubUrl: "https://github.com/your-username/smart-dustbin-project"
+      githubUrl: "https://github.com/RanuriG/Smart-Dustbin-with-IoT-Notifications"
     },
     {
       title: "Web Portfolio",
       description: "Web Desiging CSS, HTML, JS, React",
       imgUrl: projImg2,
-      githubUrl: "https://github.com/your-username/smart-dustbin-project"
+      githubUrl: "https://github.com/RanuriG/RanuriG_Portfolio"
     },
     {
       title: "Heart Attack Detection and Health Monitoring System",
       description: "LabVIEW, IOT, ESP32, Arduino",
-      imgUrl: projImg1,
+      imgUrl: projImg3,
+      githubUrl: "https://github.com/RanuriG/Health-Monitoring-Using-LabView"
     },
     {
       title: "Smart MediBox",
       description: "IOT, NodeRED, ESP32, Arduino",
-      imgUrl: projImg3,
+      imgUrl: projImg4,
+      // githubUrl: "https://github.com/your-username/smart-dustbin-project"
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
-      imgUrl: projImg2,
+      title: "MealMate Chatbot",
+      description: "Dialogflow, Web Development, NLP",
+      imgUrl: projImg5,
+      githubUrl: "https://github.com/your-username/smart-dustbin-project"
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
-      imgUrl: projImg3,
+      title: "Sentiment Analysis",
+      description: "Machine Learning",
+      imgUrl: projImg6,
+      githubUrl: "https://github.com/RanuriG/Sentiment_Analysis"
     },
   ];
 

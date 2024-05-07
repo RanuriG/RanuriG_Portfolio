@@ -483,6 +483,16 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   padding: 0px 0px 80px 0px;
 }
 
+.github-icon-container {
+  text-align: center;
+  margin-top: 10px; /* Adjust margin-top as needed */
+}
+
+.github-icon {
+  color: white;
+}
+
+
 /************ Projects Css ************/
 .contact {
   background: #000;
