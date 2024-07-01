@@ -11,7 +11,7 @@ export const Banner = () => {
   const [text, setText] = useState('');
   const [delta, setDelta] = useState(300 - Math.random() * 100);
   const [index, setIndex] = useState(1);
-  const toRotate = ["Electrical Engineering", "Embedded Systems", "AI/ML", "Power Systems"];
+  const toRotate = ["Electrical Engineering", "Embedded Systems", "AI/ML", "Power Systems","Business Analysis"];
   const period = 2000;
 
   useEffect(() => {
@@ -57,8 +57,8 @@ export const Banner = () => {
               <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                 <span className="tagline">Welcome to my Portfolio</span>
                 <h1>{`Hi! I'm Ranuri`}</h1>
-                <h2>{`I'm enthusiastic about`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Electrical Engineering", "Embedded Systems", "AI/ML", "Power Systems"  ]'><span className="wrap">{text}</span></span></h2>
-                  <p>I am a young, passionate, and hardworking individual with a mature and responsible approach to any task I undertake or any situation I'm presented with. My interests extend to fields like robotics, AI, Machine Learning, Embedded Systems, Power Electronics and Automation, where I eagerly explore the limitless possibilities of these technologies.</p>
+                <h2>{`I'm enthusiastic about`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Electrical Engineering", "Embedded Systems", "AI/ML", "Power Systems","Business Analysis"  ]'><span className="wrap">{text}</span></span></h2>
+                  <p>I am a young, passionate, and hardworking individual with a mature and responsible approach to any task I undertake or any situation I'm presented with. My interests extend to fields like robotics, AI, Machine Learning, Embedded Systems, Electronics Automation and Business Analysis, where I eagerly explore the limitless possibilities of these technologies.</p>
                   <button onClick={() => console.log('connect')}>Let’s Connect <ArrowRightCircle size={25} /></button>
               </div>}
             </TrackVisibility>
