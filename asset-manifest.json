@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/RanuriG_Portfolio/static/css/main.9fcbddb5.css",
-    "main.js": "/RanuriG_Portfolio/static/js/main.458de6dd.js",
+    "main.css": "/RanuriG_Portfolio/static/css/main.1e832854.css",
+    "main.js": "/RanuriG_Portfolio/static/js/main.78311359.js",
     "static/js/453.298f5782.chunk.js": "/RanuriG_Portfolio/static/js/453.298f5782.chunk.js",
     "static/media/banner-bg.png": "/RanuriG_Portfolio/static/media/banner-bg.69d6cd0b82be3b6eced2.png",
     "static/media/color-sharp.png": "/RanuriG_Portfolio/static/media/color-sharp.2466b11cc7dc1f653822.png",
@@ -16,28 +16,29 @@
     "static/media/project-img2.png": "/RanuriG_Portfolio/static/media/project-img2.3d6b66fa9b38c0128562.png",
     "static/media/4.svg": "/RanuriG_Portfolio/static/media/4.d860f6233cb6c048c1297a3816110c5e.svg",
     "static/media/project-img1.png": "/RanuriG_Portfolio/static/media/project-img1.c4f766ca907f253f971b.png",
+    "static/media/project-img5.png": "/RanuriG_Portfolio/static/media/project-img5.e0728dcf77ce7b7d0b5b.png",
     "static/media/project-img3.png": "/RanuriG_Portfolio/static/media/project-img3.809656576af20e4b97ce.png",
+    "static/media/project-img4.png": "/RanuriG_Portfolio/static/media/project-img4.bb9e304547d8288458a9.png",
     "static/media/CentraNo2-Bold.ttf": "/RanuriG_Portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/RanuriG_Portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/RanuriG_Portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
-    "static/media/footer-bg.png": "/RanuriG_Portfolio/static/media/footer-bg.7bd67c0f73571d0acc02.png",
-    "static/media/contact-img.svg": "/RanuriG_Portfolio/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/project-img6.png": "/RanuriG_Portfolio/static/media/project-img6.3bebd3d3d13b3625fbea.png",
     "static/media/revicons.eot": "/RanuriG_Portfolio/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/RanuriG_Portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/RanuriG_Portfolio/static/media/revicons.e8746a624ed098489406.woff",
-    "static/media/logo.svg": "/RanuriG_Portfolio/static/media/logo.eaf3c0bc058e0ed6471ba20dc0af6da2.svg",
+    "static/media/logo.svg": "/RanuriG_Portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "static/media/nav-icon3.svg": "/RanuriG_Portfolio/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
     "index.html": "/RanuriG_Portfolio/index.html",
     "static/media/nav-icon1.svg": "/RanuriG_Portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/arrow2.svg": "/RanuriG_Portfolio/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
     "static/media/arrow1.svg": "/RanuriG_Portfolio/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/RanuriG_Portfolio/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.9fcbddb5.css.map": "/RanuriG_Portfolio/static/css/main.9fcbddb5.css.map",
-    "main.458de6dd.js.map": "/RanuriG_Portfolio/static/js/main.458de6dd.js.map",
+    "main.1e832854.css.map": "/RanuriG_Portfolio/static/css/main.1e832854.css.map",
+    "main.78311359.js.map": "/RanuriG_Portfolio/static/js/main.78311359.js.map",
     "453.298f5782.chunk.js.map": "/RanuriG_Portfolio/static/js/453.298f5782.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9fcbddb5.css",
-    "static/js/main.458de6dd.js"
+    "static/css/main.1e832854.css",
+    "static/js/main.78311359.js"
   ]
 }
