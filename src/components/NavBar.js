@@ -50,10 +50,9 @@ export const NavBar = () => {
                 <a href="https://www.facebook.com/ranuri.gurusinghe/" target="_blank"><img src={navIcon2} alt="" /></a>
                 <a href="https://www.instagram.com/_ranuri_/" target="_blank"><img src={navIcon3} alt="" /></a>
               </div>
-              {/* <HashLink to='#connect'>
+              <HashLink to='#home'>
                 <button className="vvd"><span>Let’s Connect</span></button>
-              </HashLink> */}
-              <span className="vvd">Let’s Connect</span>
+              </HashLink>
             </span>
           </Navbar.Collapse>
         </Container>
