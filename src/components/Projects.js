@@ -19,6 +19,7 @@ import projImg5 from "../assets/img/project-img5.png";
 import projImg6 from "../assets/img/project-img6.png";
 import projImg7 from "../assets/img/project-img7.png";
 import projImg8 from "../assets/img/project-img8.png";
+import projImg9 from "../assets/img/project-img9.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
@@ -74,6 +75,12 @@ export const Projects = () => {
       imgUrl: projImg8,
       githubUrl: "https://github.com/RanuriG/phdfinder/tree/phdfinderapp"
     },
+    {
+      title: "Design of a Testbench - Motor Bike Display",
+      description: "Eagle/PCB Designing/ VEGA",
+      imgUrl: projImg9,
+      // githubUrl: "https://github.com/RanuriG/phdfinder/tree/phdfinderapp"
+    },
   ];
 
   return (
@@ -85,7 +92,7 @@ export const Projects = () => {
               {({ isVisible }) =>
               <div className={isVisible ? "animate__animated animate__fadeIn": ""}>
                 <h2>About Me</h2>
-                <p>I am currently in my third year pursuing a BSc (Hons) in Electrical Engineering at the University of Moratuwa. Prior to this, I attained strong academic credentials, including 3As in G.C.E A/L from Devi Balika Vidyalaya in the Physical Science stream in 2019 and 9As in G.C.E O/L from Bishop's College in 2016.</p>
+                <p>I am currently in my third year pursuing a BSc (Hons) in Electrical Engineering at the University of Moratuwa, maintaining a GPA of 3.66. Prior to this, I attained strong academic credentials, including 3As in G.C.E A/L (Physical Science stream, 2019) from Devi Balika Vidyalaya and 9As in G.C.E O/L (2016) from Bishop's College.</p>
                 <Tab.Container id="projects-tabs" defaultActiveKey="first">
                   <Nav variant="pills" className="nav-pills mb-5 justify-content-center align-items-center" id="pills-tab">
                     <Nav.Item>

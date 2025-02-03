@@ -1,6 +1,32 @@
 export const experiences = [
   {
     id: 0,
+    img: "",
+    role1: "Content Writer - English - Freelance",
+    company: "MathsUpp Academy",
+    date1: "Aug 2024 - Present",
+    desc: "Content writing on Machine Learning Mathematical concepts",
+    skills: [
+      "Machine Learning",
+      "Mathematics",
+    ],
+  },
+  {
+    id: 1,
+    img: "https://cdn.cmsfly.com/6531edc321c1210012d3a57b/foloup-logo-dTHOGT.png",
+    role1: "Software Engineering Intern",
+    company: "Folo-Up",
+    date1: "Jul 2024 - Nov 2024",
+    desc: "Worked in building an AI-powered platform to conduct interviews, with interview scores, summaries and transcripts. ",
+    skills: [
+      "React",
+      "Suparbase Database",
+      "Tailwind CSS",
+      "LLM",
+    ],
+  },
+  {
+    id: 2,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT__87IbWsNLs2zEznGzbBTPNKYb7PmsKkPoG4NfrKdw&s",
     role1: "Electrical and Electronic Engineering Intern",
     company: "Vega Innovations",
@@ -15,7 +41,7 @@ export const experiences = [
     ],
   },
   {
-    id: 1,
+    id: 3,
     img: "https://media.licdn.com/dms/image/D560BAQEJx8KIZBunSA/company-logo_200_200/0/1684298813893/roboticgen_logo?e=2147483647&v=beta&t=8gKy4GzdeDLJW_rHoK9Zi1YvLtw1ghR22szGSoxFpTo",
     role1: "Business Development and Content Strategist (PR)",
     company: "RoboticGen PVT (LTD)",
@@ -27,7 +53,7 @@ export const experiences = [
   },
 
   {
-    id: 2,
+    id: 4,
     img: "https://mun.rotaractmora.org/wp-content/uploads/2022/03/CircuitBreakers-Logo_ColouredLetters-1024x1024.png",
     role1: "Technical Team Member",
     company: "CircuitBreakers Robotics PVT (LTD)",
@@ -42,7 +68,7 @@ export const experiences = [
   },
 
   {
-    id: 2,
+    id: 5,
     img: "https://3.bp.blogspot.com/--G5itk9t0fg/UQOUC1HnCdI/AAAAAAAAAFU/WBQWgtLRYEU/s1600/ssda.jpg",
     company: "AIESEC in University of Moratuwa, Sri Lanka",
     role1: "Local Committee Vice President - Incoming Global Talent and Teacher",
@@ -66,7 +92,7 @@ export const experiences = [
   },
 
   {
-    id: 3,
+    id: 6,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeTnfThArkuFa5r-9_VFHwpDPdzCDVUZ93-xe-flr18A&s",
     role1: "Sales Accounts Manager",
     company: "AIESEC in Singapore",
@@ -79,7 +105,7 @@ export const experiences = [
   },
 
   {
-    id: 4,
+    id: 7,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeTnfThArkuFa5r-9_VFHwpDPdzCDVUZ93-xe-flr18A&s",
     role1: "iGT Consultant",
     company: "AIESEC in Poland",
@@ -92,7 +118,7 @@ export const experiences = [
   },
 
   {
-    id: 5,
+    id: 8,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD5oNlugBksMvZs8maXapB2TtEcK_weXVCa7Rs5IIT2w&s",
     role1: "Mathematics Tutor - UK Educations",
     company: "Third Space Global",
@@ -111,8 +137,8 @@ export const education = [
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuExif0S6pwobcR51WqFBlsYJgG4T4-yZUGUtzgaSTxg&s",
     school: "University of Moratuwa",
     date1: "June 2021 - Present",
-    grade: "3.6182 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Electrical Engineering. I have completed 6 semesters and have taken courses in Power Systems, Embedded Systems, Renewable Energy, Modular Software Development, Mathematics and Managment and Financial Accounting.",
+    grade: "3.6600 CGPA",
+    desc: "I am currently pursuing a Bachelor's degree in Electrical Engineering. I have completed 7 semesters and have taken courses in Power Systems, Embedded Systems, Renewable Energy, Modular Software Development, Mathematics and Managment and Financial Accounting.",
     degree: "Bachelor of Science (Hons), Electrical Engineering",
   },
   {
@@ -149,10 +175,12 @@ export const activities = [
     id: 0,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi2El7cT2Wg750-wpyZCahWgnnW2i3F7HV7zrSIogwJA&s",
     company: "Electrical Engineer Society - University of Moratuwa",
-    role1: "Executive Board - Junior Editor",
-    date1: "Sep 2023 - Present",
-    role2: "Volunteer",
-    date2: "Aug 2022 - Aug 2023",
+    role1: "Executive Board - Vice President",
+    date1: "Oct 2024 - Present",
+    role2: "Executive Board - Junior Editor",
+    date2: "Sep 2023 - Oct 2024",
+    role3: "Volunteer",
+    date3: "Aug 2022 - Aug 2023",
   },
 
   {
@@ -160,7 +188,7 @@ export const activities = [
     img: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/IEEE_logo.svg/1280px-IEEE_logo.svg.png",
     company: "IEEE - Sri Lanka",
     role1: "IEEE YPSL - Robotics and Automation Society",
-    date1: "Apr 2024 - Present",
+    date1: "Apr 2024 - Dec 2024",
     role2: "Sri Lanka Student Activities Committee | Young Professional Global Congress | Finance Team Member",
     date2: "Mar 2023 - Mar 2024",
   },
@@ -186,7 +214,7 @@ export const activities = [
     img: "https://ewh.ieee.org/r8/poland/iespels/images/history/ies.png",
     company: "IEEE Industrial Electronics Society - University of Moratuwa",
     role1: "Executive Board - Assistant Secretary",
-    date1: "Sep 2023 - Present",
+    date1: "Sep 2023 - Sep 2024",
     role2: "Executive Board - Editor",
     date2: "Oct 2022 - Sep 2023",
     role3: "Future Innovators Cup Challange (Organizing Committee Member - Events & Public Relations)",

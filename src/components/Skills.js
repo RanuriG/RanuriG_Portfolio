@@ -5,6 +5,7 @@ import skillimage4 from "../assets/img/4.svg";
 import skillimage5 from "../assets/img/5.svg";
 import skillimage6 from "../assets/img/6.svg";
 import skillimage7 from "../assets/img/7.svg";
+import skillimage8 from "../assets/img/8.svg";
 import Carousel from 'react-multi-carousel';
 import 'react-multi-carousel/lib/styles.css';
 import arrow1 from "../assets/img/arrow1.svg";
@@ -68,6 +69,10 @@ export const Skills = () => {
                             <div className="item">
                                 <img src={skillimage7} alt="Image" />
                                 <h5>OpenCV/ Tensorflow</h5>
+                            </div>
+                            <div className="item">
+                                <img src={skillimage8} alt="Image" />
+                                <h5>LangChain/LangGraph</h5>
                             </div>
                         </Carousel>
                     </div>
