@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/RanuriG_Portfolio/static/css/main.1e832854.css",
-    "main.js": "/RanuriG_Portfolio/static/js/main.d85e9dde.js",
+    "main.js": "/RanuriG_Portfolio/static/js/main.348f1743.js",
     "static/js/453.298f5782.chunk.js": "/RanuriG_Portfolio/static/js/453.298f5782.chunk.js",
     "static/media/banner-bg.png": "/RanuriG_Portfolio/static/media/banner-bg.69d6cd0b82be3b6eced2.png",
     "static/media/color-sharp.png": "/RanuriG_Portfolio/static/media/color-sharp.2466b11cc7dc1f653822.png",
@@ -27,6 +27,7 @@
     "static/media/project-img9.png": "/RanuriG_Portfolio/static/media/project-img9.949ced015446867065bf.png",
     "static/media/project-img8.png": "/RanuriG_Portfolio/static/media/project-img8.f4374b8ba59b0955edbe.png",
     "static/media/project-img6.png": "/RanuriG_Portfolio/static/media/project-img6.5d54971e9c20314cb7ce.png",
+    "static/media/project-img10.png": "/RanuriG_Portfolio/static/media/project-img10.48ac80fbf0cd717fa939.png",
     "static/media/revicons.eot": "/RanuriG_Portfolio/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/RanuriG_Portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/RanuriG_Portfolio/static/media/revicons.e8746a624ed098489406.woff",
@@ -38,11 +39,11 @@
     "static/media/arrow1.svg": "/RanuriG_Portfolio/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/RanuriG_Portfolio/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.1e832854.css.map": "/RanuriG_Portfolio/static/css/main.1e832854.css.map",
-    "main.d85e9dde.js.map": "/RanuriG_Portfolio/static/js/main.d85e9dde.js.map",
+    "main.348f1743.js.map": "/RanuriG_Portfolio/static/js/main.348f1743.js.map",
     "453.298f5782.chunk.js.map": "/RanuriG_Portfolio/static/js/453.298f5782.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1e832854.css",
-    "static/js/main.d85e9dde.js"
+    "static/js/main.348f1743.js"
   ]
 }
