@@ -20,6 +20,7 @@ import projImg6 from "../assets/img/project-img6.png";
 import projImg7 from "../assets/img/project-img7.png";
 import projImg8 from "../assets/img/project-img8.png";
 import projImg9 from "../assets/img/project-img9.png";
+import projImg10 from "../assets/img/project-img10.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
@@ -79,6 +80,12 @@ export const Projects = () => {
       title: "Design of a Testbench - Motor Bike Display",
       description: "Eagle/PCB Designing/ VEGA",
       imgUrl: projImg9,
+      // githubUrl: "https://github.com/RanuriG/phdfinder/tree/phdfinderapp"
+    },
+    {
+      title: "Snake Game - C",
+      description: "Embedded Design/ Python",
+      imgUrl: projImg10,
       // githubUrl: "https://github.com/RanuriG/phdfinder/tree/phdfinderapp"
     },
   ];
